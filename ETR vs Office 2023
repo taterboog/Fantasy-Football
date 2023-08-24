@@ -5,8 +5,8 @@ RB,Tater Discs,Saquon Barkley,42,28
 WR,Tater Discs,Jaylen Waddle,21,30
 WR,Tater Discs,Mike Evans,38,45
 TE,Tater Discs,Darren Waller,27,17
-K,Tater Discs,Harrison Butker,1,
-DST,Tater Discs,Green Bay,1,
+K,Tater Discs,Harrison Butker,1,1
+DST,Tater Discs,Green Bay,1,1
 WR,Tater Discs,Kadarius Toney,3,8
 WR,Tater Discs,Michael Thomas,2,3
 RB,Tater Discs,Miles Sanders,2,2
@@ -20,8 +20,8 @@ RB,Residual Bits,Travis Etienne Jr.,30,23
 WR,Residual Bits,Davante Adams,42,50
 WR,Residual Bits,Tee Higgins,29,35
 TE,Residual Bits,Dalton Schultz,7,13
-K,Residual Bits,Matt Gay,1,
-DST,Residual Bits,New England,1,
+K,Residual Bits,Matt Gay,1,1
+DST,Residual Bits,New England,1,1
 RB,Residual Bits,Josh Jacobs,21,15
 WR,Residual Bits,Rashod Bateman,7,16
 WR,Residual Bits,Jerry Jeudy,7,16
@@ -35,8 +35,8 @@ RB,Jacobs Picks,Javonte Williams,48,31
 WR,Jacobs Picks,CeeDee Lamb,43,51
 WR,Jacobs Picks,DK Metcalf,10,20
 TE,Jacobs Picks,T.J. Hockenson,12,13
-K,Jacobs Picks,Tyler Bass,2,
-DST,Jacobs Picks,Los Angeles Rams,2,
+K,Jacobs Picks,Tyler Bass,2,1
+DST,Jacobs Picks,Los Angeles Rams,2,1
 WR,Jacobs Picks,Courtland Sutton,9,18
 WR,Jacobs Picks,Marquise Brown,6,15
 WR,Jacobs Picks,DeVante Parker,1,3
@@ -50,8 +50,8 @@ RB,Cow Tipping Dwarfs,Kareem Hunt,7,5
 WR,Cow Tipping Dwarfs,Keenan Allen,32,41
 WR,Cow Tipping Dwarfs,Diontae Johnson,28,33
 TE,Cow Tipping Dwarfs,Travis Kelce,41,58
-K,Cow Tipping Dwarfs,Daniel Carlson,1,
-DST,Cow Tipping Dwarfs,Indianapolis,1,
+K,Cow Tipping Dwarfs,Daniel Carlson,1,1
+DST,Cow Tipping Dwarfs,Indianapolis,1,1
 WR,Cow Tipping Dwarfs,Adam Thielen,8,17
 RB,Cow Tipping Dwarfs,Tony Pollard,5,3
 WR,Cow Tipping Dwarfs,Hunter Renfrow,4,11
@@ -65,10 +65,10 @@ RB,Mean Machine,Joe Mixon,59,44
 WR,Mean Machine,Mike Williams,20,29
 WR,Mean Machine,DJ Moore,20,28
 TE,Mean Machine,George Kittle,22,16
-K,Mean Machine,Evan McPherson,2,
-DST,Mean Machine,Buffalo,2,
+K,Mean Machine,Evan McPherson,2,1
+DST,Mean Machine,Buffalo,2,1
 FLEX,Mean Machine,Elijah Moore,5,12
-DST,Mean Machine,San Fransisco,2,
+DST,Mean Machine,San Fransisco,2,1
 RB,Mean Machine,Devin Singletary,7,5
 WR,Mean Machine,Gabriel Davis,6,14
 QB,Mean Machine,Aaron Rodgers,1,2
@@ -80,8 +80,8 @@ RB,Sun Maid Raisins,J.K. Dobbins,9,9
 WR,Sun Maid Raisins,Justin Jefferson,72,75
 WR,Sun Maid Raisins,Deebo Samuel,42,49
 TE,Sun Maid Raisins,Pat Freiermuth,2,6
-K,Sun Maid Raisins,Chris Boswell,1,
-DST,Sun Maid Raisins,Los Angeles Chargers,1,
+K,Sun Maid Raisins,Chris Boswell,1,1
+DST,Sun Maid Raisins,Los Angeles Chargers,1,1
 WR,Sun Maid Raisins,Terry McLaurin,14,24
 WR,Sun Maid Raisins,Darnell Mooney,4,11
 RB,Sun Maid Raisins,Chase Edmonds,9,9
@@ -95,8 +95,8 @@ RB,Butt Butter,Ezekiel Elliott,34,24
 WR,Butt Butter,Ja'Marr Chase,70,68
 WR,Butt Butter,A.J. Brown,35,42
 TE,Butt Butter,Zach Ertz,2,3
-K,Butt Butter,Younghoe Koo,1,
-DST,Butt Butter,Tampa Bay,1,
+K,Butt Butter,Younghoe Koo,1,1
+DST,Butt Butter,Tampa Bay,1,1
 WR,Butt Butter,Allen Lazard,3,6
 RB,Butt Butter,Antonio Gibson,3,3
 RB,Butt Butter,Tyler Allgeir,1,1
@@ -110,8 +110,8 @@ RB,Sweaty Italians,Alvin Kamara,49,32
 WR,Sweaty Italians,Tyreek Hill,39,47
 WR,Sweaty Italians,Brandin Cooks,20,27
 TE,Sweaty Italians,Mike Gesicki,1,2
-K,Sweaty Italians,Matt Prater,1,
-DST,Sweaty Italians,Denver,1,
+K,Sweaty Italians,Matt Prater,1,1
+DST,Sweaty Italians,Denver,1,1
 RB,Sweaty Italians,James Conner,30,22
 RB,Sweaty Italians,Cam Akers,22,18
 QB,Sweaty Italians,Matthew Stafford,1,2
@@ -125,8 +125,8 @@ RB,Man Gravy,Dalvin Cook,59,40
 WR,Man Gravy,Ju-Ju Smith Schuster,18,26
 WR,Man Gravy,Amon-Ra St. Brown,16,24
 TE,Man Gravy,Dallas Goedert,3,7
-K,Man Gravy,Robbie Gould,2,
-DST,Man Gravy,New Orleans,1,
+K,Man Gravy,Robbie Gould,2,1
+DST,Man Gravy,New Orleans,1,1
 WR,Man Gravy,Chris Godwin,2,3
 RB,Man Gravy,Rhamondre Stevenson,6,5
 RB,Man Gravy,Brian Robinson,3,2
@@ -140,8 +140,8 @@ RB,Manbearpigs,Nick Chubb,41,26
 WR,Manbearpigs,Michael Pittman Jr.,31,36
 WR,Manbearpigs,DeAndre Hopkins,3,6
 TE,Manbearpigs,Hayden Hurst,1,2
-K,Manbearpigs,Brandon McManus,1,
-DST,Manbearpigs,Arizona,1,
+K,Manbearpigs,Brandon McManus,1,1
+DST,Manbearpigs,Arizona,1,1
 RB,Manbearpigs,A.J. Dillon,12,12
 RB,Manbearpigs,Dameon Pierce,15,14
 TE,Manbearpigs,Isaiah Likely,1,2
@@ -155,8 +155,8 @@ RB,Jazz Cabbage,Melvin Gordon III,10,9
 WR,Jazz Cabbage,Cooper Kupp,68,60
 WR,Jazz Cabbage,Drake London,18,25
 TE,Jazz Cabbage,Kyle Pitts,39,37
-K,Jazz Cabbage,Nick Folk,1,
-DST,Jazz Cabbage,Dallas,1,
+K,Jazz Cabbage,Nick Folk,1,1
+DST,Jazz Cabbage,Dallas,1,1
 WR,Jazz Cabbage,Allen Robinson,13,23
 WR,Jazz Cabbage,Tyler Lockett,3,5
 WR,Jazz Cabbage,Christian Kirk,5,11
@@ -170,12 +170,12 @@ RB,The Junk,Elijah Mitchell,11,10
 WR,The Junk,Stefon Diggs,50,59
 WR,The Junk,Amari Cooper,10,18
 TE,The Junk,Mark Andrews,36,26
-K,The Junk,Justin Tucker,2,
-DST,The Junk,Pittsburgh,1,
+K,The Junk,Justin Tucker,2,1
+DST,The Junk,Pittsburgh,1,1
 WR,The Junk,George Pickens,3,4
 TE,The Junk,Cole Kmet,1,1
 WR,The Junk,Rondale Moore,1,2
 RB,The Junk,Mark Ingram II,2,2
-K,The Junk,Jake Elliott,1,
+K,The Junk,Jake Elliott,1,1
 RB,The Junk,Rachaad White,1,0
 TE,The Junk,Tyler Higbee,2,3
